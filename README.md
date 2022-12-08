@@ -1,11 +1,5 @@
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
-
-{Provide a description the software that you wrote and how it integrates with a Cloud Database.  Describe how to use your program.}
-
-{Describe your purpose for writing this software.}
-
 I used python and firebase_admin to access data and change data in the firebase cloud database. I did this to practice using databases and python. I also
 wanted to practice using this so that I can use databases for game development.
 
